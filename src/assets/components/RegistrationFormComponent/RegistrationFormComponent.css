@@ -1,0 +1,68 @@
+.bg-container {
+  background-color: #ba4efc;
+  background-size: cover;
+  width: 100vw;
+  text-align: center;
+}
+.main-heading {
+  color: solid black;
+  font-family: "Sans-serif";
+  font-size: 6vh;
+}
+.flex-row {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+.flex-column {
+  display: flex;
+  flex-flow: column;
+}
+.list-type {
+  list-style-type: none;
+}
+.white-card {
+  background-color: white;
+  height: 20vh;
+  width: 35vw;
+  border-radius: 2vh;
+  margin: 2vh;
+  padding: 1vh;
+}
+.main-heading {
+  color: #000000;
+  font-size: 2vw;
+}
+.sub-heading {
+  color: #000000;
+  font-size: 1.2vw;
+  font-weight: bold;
+  position: relative;
+  right: 12vw;
+  top: 1vw;
+}
+.input-box {
+  height: 4vh;
+  width: 20vw;
+  margin: 2vh;
+  position: relative;
+  left: 5vw;
+  top: 1vw;
+  border-radius: 2vh;
+}
+.checkbox {
+  margin-left: 1vw;
+  font-weight: bold;
+}
+.sub-card {
+  position: relative;
+  right: 5vw;
+  top: 2vw;
+  font-size: 1.2vw;
+  margin: 1vh;
+}
+.file-card {
+  position: relative;
+  top: 2vw;
+  left: 5vw;
+}
